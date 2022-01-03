@@ -6,4 +6,3 @@
 
 * Atividades Desenvolvidas: logica de programação e erros corrigidos.
 
-![Uploading Pong.png…]
